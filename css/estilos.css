@@ -1,0 +1,35 @@
+
+#venda1{
+    position: absolute; 
+    top: 450px;
+    left: 490px;
+}
+
+
+#venda2{
+    position: absolute; 
+    top: 450px;
+    left: 570;
+}
+
+
+
+
+
+#venda3{
+    position: absolute; 
+    top: 450px;
+    left: 1000px;
+}
+
+
+
+
+
+
+
+#rodape{
+    position: absolute; 
+    top: 1000px;
+    left: 15px;
+}

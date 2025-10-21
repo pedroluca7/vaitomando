@@ -1,0 +1,29 @@
+body{
+    font-family: Arial,sans-serif;
+    margin: 20;
+    background-color: aquamarine;
+
+}
+h1,h2{
+    color:bisque
+}
+
+.item{
+    background-color: coral;
+    color: rgb(255, 0, 153);
+    padding: 20px;
+    border-radius: 5px;
+    flex: 1;/*Faz com que os itens cresçam igualmente*/
+    text-align: center; 
+
+
+
+}
+.container{
+    display: flex;
+    gap: 10px;/*Espaçamento entre os itens*/
+    margin-top: 20px;
+
+}
+
+

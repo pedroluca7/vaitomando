@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Criando um form com Tailwind</title>
+</head>
+<body>
+    
+<body class="bg-blue-500 h-screen flex items-center justify-center">
+   <form action="" class="bg-white p-6 rounded-kg shadow max-w-md space y-4">
+     <div>
+      <label for="nome" class="block text-sm font-medium mb-1">Nome</label>
+        <input type="text" id="nome" class="w-full border px-4 py-4 rounded">
+     </div>
+
+        <div>
+            <label for="email" class="block text-sm font-medium mb-1">E-mail</label>
+            <input type="email" id="email" class="w-full border px-4 py-4 rounded">
+          </div>
+    <div>
+      <label for="msg" class="block text-sm font-medium mb-1">Mensagem</label>
+        <textarea type="text" id="msg" class="w-full border px-4 py-4 rounded"></textarea>
+     </div>
+    <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded">Enviar</button>
+
+   </form>
+</body>
+</html>

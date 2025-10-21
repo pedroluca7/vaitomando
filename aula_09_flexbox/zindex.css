@@ -1,0 +1,36 @@
+div{ /*seletor*/
+border: 2px solid black;
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+height: 200px;
+width: 200px;
+padding: 20px;
+position: fixed;
+}
+h1{
+  font-family: "Tiny5", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+
+
+.box1{
+background-color: lightblue;
+left: 50px;
+top: 50px;
+z-index: 1; /*padrão é 0, então 1 é mais alto que 0*/
+}
+.box2{
+background-color: lightgreen;
+left: 100px;
+top: 100px;
+z-index: -2; /*-1 é o mais baixo, -2 é mais baixo ainda, 0 é o padrão, 1 é mais alto, 2 é mais alto ainda...*/
+}
+.box3{
+background-color: lightcoral;
+left: 150px;
+top: 150px;
+z-index: 3; /*mais alto que 1 e 2*/
+}
