@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cardapio de casamento</title>
+</head>
+<body>
+    <h1>ME<span style="color:purple">NU</span></h1>
+    <section>
+     <header>
+        <nav>
+            <ul>
+                 <img src="minihamburgue.png" alt="gongon" width="300" height="200">
+                 <li><a href="https://www.casamentos.com.br/artigos/entradinhas-para-a-recepcao--c9232">Entrada Mini hamburguer</a></li>
+                <p>Pão de hamburguer e maionese e uma mini fatia de hamburguer e mini fatia de queijo e alface</p>
+            </ul>
+
+
+<style>
+        body{
+            background-color: bisque;
+
+        }
+          #imagem{
+              border-radius: 80%;
+        }
+    </style>
+
+        </nav>
+     </header>
+     <main>
+      </section>
+
+<section>
+     <header>
+        <nav>
+            <ul>
+                 <img src="strogonoff.png" alt="gongon">
+                 <li><a href="https://www.tudogostoso.com.br/receita/2462-strogonoff-de-frango.html">Jantar Strogonoff</a></li>
+                <p>Arroz acompanhado  de strogoff de frango ou carne depende da sua preferencia com batata palha ou frita</p>
+            </ul>
+        </nav>
+     </header>
+     <main>
+      </section>
+
+<section>
+     <header>
+        <nav>
+            <ul>
+                 <img src="Boloabaxi.png" alt="gongon" width="300" height="200">
+                 <li><a href="https://www.estadao.com.br/paladar/receita/bolo-de-abacaxi-com-doce-de-leite/?srsltid=AfmBOor1FYOvcNXtNsJiFb7gQZzpR6z4NCELwNeKFwek2s5ujntmb9MB">Sobremesa bolo de abacaxi com doce de leite</a></li>
+                <p>Bolo de massa com abacaxi e doce de leite</p>
+            </ul>
+        </nav>
+     </header>
+     <main>
+      </section>
+
+
+     </main>
+
+
+
+
+ </body>
+</html>
